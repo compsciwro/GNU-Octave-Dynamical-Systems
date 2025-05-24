@@ -12,9 +12,17 @@ A collection of GNU Octave scripts for mathematical modeling and analysis, devel
 
 ## 🔭 Preview of Graphs:
 
-![image](https://github.com/user-attachments/assets/9223a542-bec6-46f0-8ce5-37ffa47ccb8b)
-![image](https://github.com/user-attachments/assets/460bd318-9058-47c5-9ed4-5d1fa856985c)
-![image](https://github.com/user-attachments/assets/a3695019-a8a3-4f7e-b130-55003f0ada4f)
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/9223a542-bec6-46f0-8ce5-37ffa47ccb8b)" alt="Nullclines, Steady States and Directional Field Plot" width="300"/>
+</p>
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/460bd318-9058-47c5-9ed4-5d1fa856985c)" alt="Logistic Growth Curve Plot" width="300"/>
+</p>
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/a3695019-a8a3-4f7e-b130-55003f0ada4f)" alt="Predator-Prey Model" width="300"/>
+</p>
 
 
 ## 🛠 Tools Used
